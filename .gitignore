@@ -1,0 +1,8 @@
+*.env
+*~
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.log
+*.pdf # If you plan to download PDFs into the repo and not track them
